@@ -83,15 +83,15 @@ const about = {
                 achievements: [
                     <>Bertanggung jawab dalam pengelolaan dan pemeliharaan infrastruktur jaringan komputer, serta menangani berbagai aspek teknologi lainnya, termasuk komputer, laptop, printer, dan perangkat lunak.</>,
                     <>Selalu berupaya menemukan solusi terbaik dengan tepat, cepat, dan presisi dalam setiap penanganan masalah.</>
-                ],images:[]
-                // images: [ // optional: leave the array empty if you don't want to display images
-                //     {
-                //         src: '/images/projects/project-01/cover-01.jpg',
-                //         alt: 'Once UI Project',
-                //         width: 16,
-                //         height: 9
-                //     }
-                // ]
+                ],
+                images: [ // optional: leave the array empty if you don't want to display images
+                    {
+                        src: '/images/projects/project-01/cover-01.jpg',
+                        alt: 'Once UI Project',
+                        width: 16,
+                        height: 9
+                    }
+                ]
             },
             // {
             //     company: 'Creativ3',
